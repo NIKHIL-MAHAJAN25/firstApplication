@@ -92,7 +92,7 @@
                 android:layout_height="wrap_content"
                 android:padding="16dp"
                 android:hint="Email"
-                android:drawableStart="@drawable/baseline_email_24"
+                android:drawableStart="@drawable/baseline_lock_24"
                 android:background="@android:drawable/screen_background_light_transparent"
                 />
 
@@ -184,7 +184,7 @@
 
 
                 <Button
-
+                    android:id="@+id/btngoogle"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:background="#001B3A"
@@ -201,7 +201,7 @@
                 android:layout_weight="1"
                 >
                 <Button
-
+                    android:id="@+id/btnfacebook"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="#001B3A"
