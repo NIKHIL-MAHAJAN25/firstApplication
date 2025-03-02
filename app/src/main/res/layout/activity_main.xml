@@ -92,7 +92,7 @@
                 android:layout_height="wrap_content"
                 android:padding="16dp"
                 android:hint="Email"
-                android:drawableStart="@drawable/baseline_lock_24"
+                android:drawableStart="@drawable/baseline_email_24"
                 android:background="@android:drawable/screen_background_light_transparent"
                 />
 
@@ -190,6 +190,7 @@
                     android:background="#001B3A"
                     android:text="Google"
                     android:textColor="@color/white"
+
 
                     />
             </androidx.cardview.widget.CardView>
